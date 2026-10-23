@@ -1,0 +1,1 @@
+cmd = /dssg/home/acct-esezk/esezk-wangpeng6/projects/EDTA/results/04_TFBS/BET_posi.homer.pos danRer11 /dssg/home/acct-esezk/esezk-wangpeng6/projects/EDTA/results/04_TFBS/BET_posi_motif -size given -p 8 -mask
