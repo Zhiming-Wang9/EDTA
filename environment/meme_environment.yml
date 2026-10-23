@@ -1,0 +1,21 @@
+name: meme
+channels:
+  - defaults
+dependencies:
+  - python=3.10
+  - meme
+  - homer
+  - bedtools
+  - click
+  - cython
+  - h5py
+  - llvm
+  - louvain
+  - matplotlib
+  - numba
+  - numpy
+  - pysam
+  - scikit-learn
+  - scipy
+  - sra-tools
+prefix: /dssg/home/acct-esezk/esezk-wangpeng6/.conda/envs/meme

@@ -1,0 +1,15 @@
+==========================================
+EDTA: HOMER Motif Enrichment
+==========================================
+Compound: FLU
+Genome: danRer11
+Target: /dssg/home/acct-esezk/esezk-wangpeng6/projects/EDTA/results/04_TFBS/FLU_posi.homer.pos
+Background: /dssg/home/acct-esezk/esezk-wangpeng6/projects/EDTA/results/04_TFBS/ATAC_background.homer.pos
+Motif sequence size: 200 bp
+Threads: 8
+Output: /dssg/home/acct-esezk/esezk-wangpeng6/projects/EDTA/results/04_TFBS/FLU_posi_motif
+==========================================
+==========================================
+HOMER analysis completed successfully.
+Compound: FLU
+==========================================
